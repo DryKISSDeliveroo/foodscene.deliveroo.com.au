@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://foodscene.deliveroo.com.au/sitemap.xml
