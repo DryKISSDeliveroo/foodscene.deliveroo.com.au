@@ -4039,6 +4039,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/promotions.html</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/cuisine-inspiration.html</loc>
     <lastmod>2018-02-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4057,7 +4063,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/promotions.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/editor.html</loc>
     <lastmod>2018-02-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4100,12 +4106,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/thomas-kelly.html</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/editor.html</loc>
     <lastmod>2018-02-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4579,6 +4579,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/editor/page/2.html</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/editor/page/3.html</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/editor/page/4.html</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/editor/page/5.html</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/editor/page/6.html</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/editor/page/7.html</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/lucy-thorpe/page/2.html</loc>
     <lastmod>2018-02-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4640,42 +4676,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/rachel-mcdonald/page/2.html</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/editor/page/2.html</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/editor/page/3.html</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/editor/page/4.html</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/editor/page/5.html</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/editor/page/6.html</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/editor/page/7.html</loc>
     <lastmod>2018-02-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
