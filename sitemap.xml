@@ -1507,6 +1507,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/promotions/hotcrossbao-deliveroo-hotcrossbun-easter.html</loc>
+    <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/promotions/introducing-deliveroo-10dollarminimumspend.html</loc>
     <lastmod>2018-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1544,6 +1550,30 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/contact/</loc>
+    <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/hot-cross-bao.html</loc>
+    <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/hot-cross-buns.html</loc>
+    <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/deliveroo.html</loc>
+    <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/easter.html</loc>
     <lastmod>2018-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2690,12 +2720,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/tag/delivery.html</loc>
-    <lastmod>2018-03-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/tag/deliveroo.html</loc>
     <lastmod>2018-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4387,13 +4411,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/cuisine-inspiration.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/promotions.html</loc>
     <lastmod>2018-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/promotions.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/cuisine-inspiration.html</loc>
     <lastmod>2018-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4406,6 +4430,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/food-trends.html</loc>
+    <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/andy-nolan.html</loc>
     <lastmod>2018-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
