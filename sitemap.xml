@@ -1585,6 +1585,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/cuisine-inspiration/prawns-thai-chinese-vietnamese-sydney.html</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/cuisine-inspiration/best-spicy-curries-sydney.html</loc>
     <lastmod>2018-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1706,6 +1712,42 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/contact/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/prawns.html</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/seafood-soup.html</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/dumpling.html</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/salad.html</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/oyster.html</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/stir-fry.html</loc>
     <lastmod>2018-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1855,12 +1897,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/tag/salad.html</loc>
-    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.au/tag/siders.html</loc>
     <lastmod>2018-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1988,12 +2024,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/tag/fusion.html</loc>
-    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/tag/prawns.html</loc>
     <lastmod>2018-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
