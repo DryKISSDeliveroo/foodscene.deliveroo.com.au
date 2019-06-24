@@ -919,7 +919,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/cuisine-inspiration/search-by-dish.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/cuisine-inspiration/search-by-dish-on-deliveroo.html</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2365,7 +2365,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/tag/dish.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/tag/restaurant-newsletter.html</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2474,12 +2474,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/tag/product-update.html</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/tag/restaurant-newsletter.html</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3572,6 +3566,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/tag/sweet-treats.html</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/dish.html</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
