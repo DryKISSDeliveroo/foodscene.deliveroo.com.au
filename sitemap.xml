@@ -511,6 +511,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/cuisine-inspiration/trending-and-recommended-dishes.html</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/cuisine-inspiration/cheeseburger-dish-day.html</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2161,6 +2167,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/dish-photography.html</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/deliveroo-partnership-powershop.html</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2348,6 +2360,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/about/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/photography.html</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5869,6 +5887,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/cuisine-inspiration.html</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/restaurant-profiles.html</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -5876,12 +5900,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/terms.html</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/cuisine-inspiration.html</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6409,6 +6427,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/archive/2019/page/4.html</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/archive/2018/page/2.html</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6613,42 +6637,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/page/2.html</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/page/3.html</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/page/4.html</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/page/5.html</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/page/6.html</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/page/2.html</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.au/cuisine-inspiration/page/2.html</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6823,7 +6811,49 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/page/2.html</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/page/3.html</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/page/4.html</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/page/5.html</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/page/6.html</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/page/2.html</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/food-trends/page/2.html</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/caitlin-turner/page/2.html</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
