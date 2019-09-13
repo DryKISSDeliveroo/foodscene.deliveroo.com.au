@@ -2335,6 +2335,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/promotions/jomo-campaign.html</loc>
+    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/promotions/deliveroo-portify-perks.html</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2426,6 +2432,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/tag/marketing-campaign.html</loc>
+    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/jomo.html</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
