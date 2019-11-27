@@ -109,6 +109,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/bettys-frozen-custard.html</loc>
+    <lastmod>2019-11-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/deliveroo-national-fries-day.html</loc>
     <lastmod>2019-11-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7208,6 +7214,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/terms/page/2/</loc>
+    <lastmod>2019-11-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/page/3/</loc>
     <lastmod>2019-11-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
