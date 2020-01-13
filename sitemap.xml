@@ -163,6 +163,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/editions-koyomi-highball-free-drink.html</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/order-and-get-7-50-off-your-next-2-orders-2018-02-12.html</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6002,6 +6008,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/tag/foodscene.html</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/archive/2020.html</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
