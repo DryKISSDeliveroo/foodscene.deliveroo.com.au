@@ -43,6 +43,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/laneway-festival-vip-tickets-2020.html</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/summertime-specials.html</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7064,6 +7070,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/deliveroo/page/3.html</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/deliveroo/page/4.html</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
