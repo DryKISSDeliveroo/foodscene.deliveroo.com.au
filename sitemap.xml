@@ -25,6 +25,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/free-delivery-mel-syd.html</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/deliveroo-pursuit-of-food-freedom-competition.html</loc>
     <lastmod>2020-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -68,12 +74,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/terms/punch-card-offer.html</loc>
-    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/melbourne-free-delivery.html</loc>
     <lastmod>2020-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
