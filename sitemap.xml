@@ -145,6 +145,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/tgi-tsg.html</loc>
+    <lastmod>2020-04-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/cuisine-inspiration/australia-valentines-fresh-sushi-perth.html</loc>
     <lastmod>2020-04-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
