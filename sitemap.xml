@@ -151,6 +151,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/mccain-huxtaburger.html</loc>
+    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/editions-smiths-chips.html</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6614,6 +6620,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/tag/steak/page/2.html</loc>
+    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/archive/2020/page/2.html</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
