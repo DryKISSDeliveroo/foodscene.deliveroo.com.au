@@ -61,6 +61,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/world-cheese-day.html</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/punch-card-offer.html</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
