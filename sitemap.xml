@@ -43,6 +43,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/belandbriodeli-promo.html</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/summertime-specials.html</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
