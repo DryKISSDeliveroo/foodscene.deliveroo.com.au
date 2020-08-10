@@ -139,6 +139,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/ben-jerrys.html</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/deliveroo-kfc-state-of-origin-2019-06-20.html</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -152,24 +158,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/terms/restaurant-tips.html</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/adelaide-bday.html</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/lockdown-social-posting.html</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/mel-lockdown-rx.html</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
