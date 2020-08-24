@@ -73,6 +73,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/bulla-icecream-sampling.html</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/punch-card-offer.html</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2474,6 +2480,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/promotions/fried-chicken-day-roundup.html</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/bulla-icecream-sampling.html</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7130,6 +7142,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/deliveroo/page/3.html</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/deliveroo/page/4.html</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
