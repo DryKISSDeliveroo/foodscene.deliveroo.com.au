@@ -73,6 +73,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/editions-bulla-sampling.html</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/punch-card-offer.html</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -116,12 +122,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/terms/gold-coast-free-delivery.html</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/2-day-promo-sydney.html</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
