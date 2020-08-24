@@ -127,6 +127,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/editions-bulla-sampling.html</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/amex-promo.html</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6674,6 +6680,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/archive/2020/page/2.html</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/archive/2020/page/3.html</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
