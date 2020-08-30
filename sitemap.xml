@@ -43,12 +43,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/geelong-lockdown-giveback.html</loc>
-    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/deliveroo-consumer-referral.html</loc>
     <lastmod>2020-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -164,18 +158,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/terms/free-koyomi.html</loc>
-    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/perth-bday.html</loc>
-    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/wollongong-bday.html</loc>
     <lastmod>2020-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6265,12 +6247,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/tag/terms/page/4.html</loc>
-    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.au/tag/restaurants/page/2.html</loc>
     <lastmod>2020-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6926,12 +6902,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/terms/page/3.html</loc>
-    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/page/4.html</loc>
     <lastmod>2020-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
