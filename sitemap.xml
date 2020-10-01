@@ -151,12 +151,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/ben-jerrys.html</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/deliveroo-kfc-state-of-origin-2019-06-20.html</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,12 +164,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/terms/restaurant-tips.html</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/free-koyomi.html</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
