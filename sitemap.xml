@@ -2077,6 +2077,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/federal-budget-2020-21-and-the-hospitality-industry.html</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/second-editions-collingwood-launch.html</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2504,6 +2510,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/about/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/small-business.html</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/industry-news.html</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6127,13 +6145,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/terms.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/restaurant-profiles.html</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/restaurant-profiles.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/terms.html</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6157,13 +6175,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/editor.html</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/editor.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/deliveroo.html</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6907,18 +6925,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/page/2.html</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/page/3.html</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/page/2.html</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6944,6 +6950,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/restaurant-profiles/page/6.html</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/page/2.html</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/page/3.html</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7129,18 +7147,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/deliveroo/page/2.html</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/deliveroo/page/3.html</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.au/editor/page/2.html</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7178,6 +7184,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/editor/page/8.html</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/deliveroo/page/2.html</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/deliveroo/page/3.html</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
