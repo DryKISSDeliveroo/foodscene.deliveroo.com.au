@@ -121,6 +121,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/fifth-birthday-faq.html</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/amex-promo.html</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2552,6 +2558,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/tag/terms.html</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/true.html</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
