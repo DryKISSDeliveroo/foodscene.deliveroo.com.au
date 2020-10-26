@@ -2497,6 +2497,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/promotions/eat-spin-win-1-million-plus-worth-of-prizes-to-celebrate-deliveroos-5th-birthday-in-australia.html</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/promotions/tyro-business-banking.html</loc>
     <lastmod>2020-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2552,6 +2558,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/tag/campaigns.html</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/news.html</loc>
     <lastmod>2020-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
