@@ -127,24 +127,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/amex-promo.html</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/deliveroo-st-kilda-footy-pack.html</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/deli-50-promo.html</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/deliveroo-kfc-state-of-origin-2019-06-20.html</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7016,12 +6998,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/terms/page/3.html</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/page/4.html</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
