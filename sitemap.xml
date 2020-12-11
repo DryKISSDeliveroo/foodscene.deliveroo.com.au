@@ -19,6 +19,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/fifth-birthday-prize.html</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/deliveroo-pursuit-of-food-freedom-competition.html</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6295,6 +6301,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/terms/page/3.html</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/tag/restaurants/page/2.html</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6938,6 +6950,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/terms/page/2.html</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/page/3.html</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
