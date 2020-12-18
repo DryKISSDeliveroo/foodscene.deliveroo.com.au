@@ -127,6 +127,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/laurent-gwp.html</loc>
+    <lastmod>2020-12-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/mm-whisky.html</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
