@@ -2401,6 +2401,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/promotions/deliveroo-fourweek-free-delivery-terms-and-conditions.html</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/promotions/everything-participating-restaurants-need-to-know-5th-birthday.html</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7178,6 +7184,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/deliveroo/page/2.html</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/deliveroo/page/3.html</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
