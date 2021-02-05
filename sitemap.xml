@@ -25,6 +25,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/terms/nux-feb-2021.html</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/terms/fifth-bday-prize.html</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2521,6 +2527,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/true.html</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/tag/promotions.html</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2528,12 +2540,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/tag/terms.html</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/tag/true.html</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6199,13 +6205,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/promotions.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/terms.html</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/terms.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/promotions.html</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6973,13 +6979,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/promotions/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/terms/page/2.html</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/terms/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/promotions/page/2.html</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
