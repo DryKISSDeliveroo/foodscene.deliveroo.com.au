@@ -2515,6 +2515,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/promotions/deliveroo-1dollar-delivery.html</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/promotions/deliveroo-free-delivery-select-locations.html</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6295,13 +6301,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/editor.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/deliveroo.html</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/editor.html</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6398,6 +6404,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/tag/terms/page/3.html</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/tag/terms/page/4.html</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7279,6 +7291,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/deliveroo/page/2.html</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/deliveroo/page/3.html</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.au/deliveroo/page/4.html</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/editor/page/2.html</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7322,24 +7352,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.au/editor/page/9.html</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/deliveroo/page/2.html</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/deliveroo/page/3.html</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.au/deliveroo/page/4.html</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
