@@ -2401,6 +2401,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.au/promotions/deliveroo-bsbn-free-delivery-terms-and-conditions.html</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.au/promotions/hotcrossbao-deliveroo-hotcrossbun-easter.html</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2497,7 +2503,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.au/promotions/deliveroo-bendigo-free-delivery.html</loc>
+    <loc>https://foodscene.deliveroo.com.au/promotions/deliveroo-melbourne-free-delivery.html</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
